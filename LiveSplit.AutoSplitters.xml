@@ -22849,3 +22849,26 @@
         <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/blob/main/Time%20Rameside/</Website>
     </AutoSplitter>
 </AutoSplitters>
+ <AutoSplitter>
+     <Games>
+        <Game>Gemhin Impact</Game>
+    </Games>
+    <URLs>
+        <URL>https://github.com/alice3589/GenshinImpactLoadRemover/blob/main/GenshinImpact_LoadRemover_5_0_.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter and Load Remover (By alice3589 and KhanSimeoni)</Description>
+    <Website>https://github.com/alice3589/GenshinImpactLoadRemover</Website>
+</AutoSplitters>
+    <AutoSplitter>
+     <Games>
+        <Game>Gemhin Impact</Game>
+    </Games>
+    <URLs>
+        <URL>https://github.com/alice3589/GenshinImpactLoadRemover/blob/main/GenshinImpact_LoadRemover_5_0_.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter and Load Remover (By alice3589 and KhanSimeoni)</Description>
+    <Website>https://github.com/alice3589/GenshinImpactLoadRemover</Website>
+    </AutoSplitters>
+</AutoSplitters>
